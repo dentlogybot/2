@@ -581,4 +581,4 @@ async def KATA(ctx, url, mthd):
 	
 	
 	
-bot.run(token)
+bot.run(MTA3ODA2Nzk1NTEwMDgzMTg1NA.GCrgdq.1ZdjY5BGf_2CsZFaSQdhWf9etv11vPtdUPbYfE)
